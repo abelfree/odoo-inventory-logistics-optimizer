@@ -35,9 +35,4 @@ This project adds wave grouping heuristics for stock pickings to reduce picker t
 - KPI selection for logistics-focused stakeholders.
 
 
-## Screenshots
-
-![Project Screenshot](assets/screenshots/placeholder.svg)
-
-Replace ssets/screenshots/placeholder.svg with real screenshots from your Odoo demo environment.
 
