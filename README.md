@@ -1,5 +1,11 @@
 ﻿# Odoo Inventory and Logistics Optimizer
 
+[![Odoo](https://img.shields.io/badge/Odoo-16%2B-5E2750)](https://www.odoo.com/)
+[![License: LGPL-3.0](https://img.shields.io/badge/License-LGPL--3.0-blue.svg)](./LICENSE)
+[![Status](https://img.shields.io/badge/Status-Portfolio_Ready-brightgreen)](#)
+[![Last Commit](https://img.shields.io/github/last-commit/abelfree/odoo-inventory-logistics-optimizer)](https://github.com/abelfree/odoo-inventory-logistics-optimizer/commits/master)
+
+
 ## Problem
 Warehouse teams lose productivity when pickings are not grouped by practical movement patterns. During seasonal peaks, reservation and dispatch delays escalate.
 
@@ -27,3 +33,11 @@ This project adds wave grouping heuristics for stock pickings to reduce picker t
 - Heuristic vs exact route optimization tradeoffs.
 - How batching strategy impacts team throughput.
 - KPI selection for logistics-focused stakeholders.
+
+
+## Screenshots
+
+![Project Screenshot](assets/screenshots/placeholder.svg)
+
+Replace ssets/screenshots/placeholder.svg with real screenshots from your Odoo demo environment.
+
